@@ -18,7 +18,7 @@ However, the *inverse* form of Vincenty’s equations may fail to converge for n
 ## ⚙️ Installation
 
 1️⃣ **Clone this repository**
-```bash
+```
 git clone https://github.com/<yourusername>/vincenty-toolkit.git
 cd vincenty-toolkit
 
@@ -33,4 +33,5 @@ python vincenty.py -h
 
 This project is distributed under the MIT License.
 Original mathematical formulation © 1975 Thaddeus Vincenty.
+
 Python adaptation and CLI integration by Md Rokonuzzaman, rokon.mist17@gmail.com
