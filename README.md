@@ -21,16 +21,17 @@ However, the *inverse* form of Vincenty’s equations may fail to converge for n
 ```
 git clone https://github.com/ZamanRokon/vincenty-toolkit.git
 cd vincenty-toolkit
+```
 
-1️⃣ **Check available options**
-```python
+## Check available options
+
 python vincenty.py -h
 
-
-⚖️ License
+## ⚖️ License
 
 This project is distributed under the MIT License.
 Original mathematical formulation © 1975 Thaddeus Vincenty.
 
 Python adaptation and CLI integration by Md Rokonuzzaman, rokon.mist17@gmail.com
+
 
