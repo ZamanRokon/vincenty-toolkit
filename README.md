@@ -23,9 +23,11 @@ git clone https://github.com/ZamanRokon/vincenty-toolkit.git
 cd vincenty-toolkit
 ```
 
-## Check available options
+## 🎯 Check available options
 
+```
 python vincenty.py -h
+```
 
 ## ⚖️ License
 
@@ -33,5 +35,6 @@ This project is distributed under the MIT License.
 Original mathematical formulation © 1975 Thaddeus Vincenty.
 
 Python adaptation and CLI integration by Md Rokonuzzaman, rokon.mist17@gmail.com
+
 
 
