@@ -35,12 +35,6 @@ python vincenty.py -h
 - Destination points latitude and longitude with initial point, distance and bearing
 - Generate intermediate coordinates between two fixed points based on their start and end positions
 
-## 🛠️ Features
-
-- Calculation of distance, forward and backward between two points
-- Destination points latitude and longitude with initial point, distance and bearing
-- Generate intermediate coordinates between two fixed points based on their start and end positions
-
 ## 📖 Usage Examples
 
 ```
@@ -48,6 +42,7 @@ python vincenty.py -distance -startpoint=23.776939,97.724721 -endpoint=24.374530
 python vincenty.py -destination -startpoint=23.776939,97.724721 -dist=1500 -bearing=45
 python vincenty.py -interpolate -startpoint=23.776939,97.724721 -endpoint=24.374530,84.144159 -points=sample_points.csv
 ```
+
 
 
 
